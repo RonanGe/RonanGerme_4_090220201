@@ -369,7 +369,8 @@ a:hover {
 }
 
 .contact_p{
-    font-size: xx-small;
+    font-size: x-small;
+    margin-top: 15px;
 }
 
 .formulaire{
@@ -1035,6 +1036,12 @@ h4 {
     .blocsapp-device-iphone5 img {
         width: 180px;
         height: 320px;
+    }
+
+    .social{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
     }
 }
 
